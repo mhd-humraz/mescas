@@ -18,11 +18,11 @@
         },
         
         {
-          "month": "May",
-          "date": "28",
-          "head": "heading",
+          "month": "Jan",
+          "date": "10",
+          "head": "Code A Snowman",
           "para": "paragraph",
-          "img": "."
+          "img": "https://postimg.cc/r0K48g1h"
         },
         {
           "month": "April",
@@ -65,12 +65,12 @@
       "year": 2026,
       "eventDetails": [
         {
-          "month": "Aug",
-          "date": "9",
-          "head": "heading",
+           "month": "Jan",
+          "date": "10",
+          "head": "Code A Snowman",
           "para": "paragraph",
-          "img": "https://i.postimg.cc/FFjX4YjS/1642272.jpg"
-        },
+          "img": "https://postimg.cc/r0K48g1h"       
+         },
         {
           "month": "july",
           "date": "24",
@@ -141,8 +141,11 @@
       {
         "image": "https://i.postimg.cc/7LHszLcD/img3.jpg"
       },
+            {
+        "image": "https://i.postimg.cc/7LHszLcD/img5.jpg"
+      },
       {
-        "image": "https://i.postimg.cc/Gmrq02bN/img5.jpg"
+        "image": "https://i.postimg.cc/ZRLxxM0f/snow.jpg"
       },
       {
         "image": "https://i.postimg.cc/3x3y2v5W/img7.jpg"
@@ -168,9 +171,9 @@
   "statistics": {
     
     "activeMembers": 79,
-    "InterestGroups": 1,
-    "karmaEarned": 69550,
-    "rank": 58
+    "InterestGroups": 2,
+    "karmaEarned": 120900,
+    "rank": 47
   },
 
   "team": {
