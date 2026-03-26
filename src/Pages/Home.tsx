@@ -10,7 +10,8 @@ import ExploreLC from "./Components/ExploreLC/ExploreLC";
 import Team from "./Components/Team/Team";
 import Connect from "./Components/Connect/Connect";
 import Footer from "./Components/Footer/Footer";
-import Achievements from "./Components/Achievements/Achievements";
+
+
 
 function Home() {
   return (
@@ -19,7 +20,6 @@ function Home() {
       <Hero />
       <About />
       <Events />
-      <Achievements />
       <Gallery />
       <Statistics />
       <ExploreLC />
