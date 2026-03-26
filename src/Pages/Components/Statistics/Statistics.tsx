@@ -25,7 +25,7 @@ const Statistics = () => {
 
   useEffect(() => {
     const finalValues: number[] = [
-      data.statistics.studentsCount ?? 0,
+      
       data.statistics.activeMembers ?? 0,
       data.statistics.InterestGroups ?? 0,
       data.statistics.karmaEarned ?? 0,
