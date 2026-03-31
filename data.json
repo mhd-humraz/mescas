@@ -169,8 +169,8 @@
 
   
   "statistics": {
-    
-    "activeMembers": 79,
+    "studentsCount": 70,
+    "activeMembers": 46,
     "InterestGroups": 2,
     "karmaEarned": 120900,
     "rank": 47
@@ -179,7 +179,7 @@
   "team": {
     "CampusEnabler": {
       "name": "SHAREEQ SHABEER",
-      "image": "https://i.postimg.cc/5NYCKmBj/shareeqsir.png"
+      "image": "https://i.postimg.cc/8z8hC2PQ/shareeqsir.png"
     },
     "CampusLead": {
       "name": "MUHAMMED HUMRAZ H",
@@ -190,13 +190,17 @@
       "image": "https://i.postimg.cc/bNpvkH6c/shiyas.jpg"
     },
     "CreativeLead": {
-      "name": "",
-      "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
+      "name": "Ameena nasrin K L",
+      "image": "https://i.postimg.cc/zGpkvdy4/ameena.png"
     },
     "TechnicalLead": {
-     "name": "",
-     "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
+     "name": "Ajmal M J",
+     "image": "https://i.postimg.cc/rm63kn4G/ajmal.png"
     },
+    "ContentLead": {
+      "name": "Fathima K A",
+      "image": "https://i.postimg.cc/GhGY8X5Z/fathima.png"
+    },    
     "MediaLead": {
       "name": "",
       "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
@@ -204,6 +208,10 @@
     "DesignLead": {
       "name": "",
       "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
+    },
+        "Web IG Lead": {
+      "name": "Salman ",
+      "image": "https://i.postimg.cc/nrsWYyDk/salman.png"
     }
   },
   "discordLink": "https://discord.gg/x4eWHYJwxA",
