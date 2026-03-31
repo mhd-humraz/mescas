@@ -191,19 +191,27 @@
     },
     "CreativeLead": {
       "name": "Ameena nasrin K L",
-      "image": "https://i.postimg.cc/YCvGHbw9/Gemini-Generated-Image-4mmdj14mmdj14mmd.png"
+      "image": "https://i.postimg.cc/zGpkvdy4/ameena.png"
     },
     "TechnicalLead": {
      "name": "Ajmal M J",
-     "image": "https://i.postimg.cc/rm63kn4G/Gemini-Generated-Image-giu1n9giu1n9giu1.png"
+     "image": "https://i.postimg.cc/rm63kn4G/ajmal.png"
     },
+    "ContentLead": {
+      "name": "Fathima K A",
+      "image": "https://i.postimg.cc/GhGY8X5Z/fathima.png"
+    },    
     "MediaLead": {
       "name": "",
-      "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
+      "image": "https://i.postimg.cc/GhGY8X5Z/Gemini-Generated-Image-en8ubden8ubden8u.png"
     },
     "DesignLead": {
       "name": "",
       "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
+    },
+        "Web IGLead": {
+      "name": "Salman ",
+      "image": "https://i.postimg.cc/nrsWYyDk/salman.png"
     }
   },
   "discordLink": "https://discord.gg/x4eWHYJwxA",
