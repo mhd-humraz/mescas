@@ -37,6 +37,9 @@ const Team = () => {
             </div>
           ))}
         </div>
+        <a className={styles.pastMembersButton} href="/">
+          Past Members ➤
+        </a>
       </div>
     </div>
   );
