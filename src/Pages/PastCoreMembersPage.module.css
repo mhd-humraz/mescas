@@ -87,6 +87,45 @@
 .socialLinks a:hover {
   color: #1d4ed8;
 }
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 0 3rem;
+  flex-wrap: wrap;
+}
+
+.searchInput {
+  padding: 0.85rem 1rem;
+  min-width: 320px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.searchInput:focus {
+  border-color: #8b5cf6;
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15);
+}
+
+.yearSelect {
+  padding: 0.85rem 1rem;
+  min-width: 180px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.yearSelect:focus {
+  border-color: #8b5cf6;
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15);
+}
+
 
 @media (max-width: 768px) {
   .pastCoreMembersPage {
@@ -100,11 +139,14 @@
   .membersGrid {
     grid-template-columns: 1fr;
   }
-}
-.backButton {
-  display: inline-block;
-  margin-bottom: 2rem;
-  text-decoration: none;
-  color: #8b5cf6;
-  font-weight: 600;
+
+  .searchInput,
+  .yearSelect {
+    width: 100%;
+    min-width: unset;
+  }
+
+  .filters {
+    flex-direction: column;
+  }
 }
