@@ -1,0 +1,65 @@
+export const pastCoreMembers = [
+    {
+    name: "SHAREEQ SHABEER",
+    role: "Campus Enabler",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/8z8hC2PQ/shareeqsir.png",
+    linkedin: "https://linkedin.com",
+  },
+  {
+    name: "Muhammed Humraz",
+    role: "Campus Lead",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/sDT3SFQ7/humraz.jpg",
+    linkedin: "https://linkedin.com",
+    github: "https://github.com/mhd-humraz",
+  },
+
+  {
+    name: "SHIYAS P S",
+    role: "Campus Co-Lead",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/bNpvkH6c/shiyas.jpg",
+    linkedin: "https://linkedin.com",
+  },
+  {
+    name: "Ameena Nasrin K L",
+    role: "Creative Lead",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/zGpkvdy4/ameena.png",
+    linkedin: "https://linkedin.com",
+  },
+  {
+    name: "Ajmal M J",
+    role: "Technical Lead",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/rm63kn4G/ajmal.png",
+    linkedin: "https://linkedin.com",
+  },
+  {
+    name: "Fathima K A",
+    role: "Content Lead",
+    academicYear: "2025-26",
+    imageUrl: "https://i.postimg.cc/GhGY8X5Z/fathima.png",
+    linkedin: "https://linkedin.com",
+  },
+  // {
+  //   name: "Vacant",
+  //   role: "Media Lead",
+  //   academicYear: "2025-26",
+  //   imageUrl: "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png",
+  // },
+  // {
+  //   name: "Vacant",
+  //   role: "Design Lead",
+  //   academicYear: "2025-26",
+  //   imageUrl: "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png",
+  // },
+  {
+    name: "Salman",
+    role: "Web & IG Lead",
+    academicYear: "2026-27",
+    imageUrl: "https://i.postimg.cc/nrsWYyDk/salman.png",
+    linkedin: "https://linkedin.com",
+  },
+];

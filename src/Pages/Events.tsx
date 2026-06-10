@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import type { ReactElement } from "react";
+
 import styles from "./Events.module.css";
 import data from "../../data.json";
 import Navbar from "./Components/Navbar/Navbar";
