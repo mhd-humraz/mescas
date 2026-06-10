@@ -26,7 +26,13 @@ function App() {
 
         <Route
           path="/past-core-members"
-          element={<PastCoreMembersPage />}
+          element={
+            <>
+              <Navbar />
+              <PastCoreMembersPage />
+              <Footer />
+            </>
+          }
         />
       </Routes>
     </Router>
