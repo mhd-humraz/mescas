@@ -1,6 +1,6 @@
 import styles from "./Team.module.css";
 import data from "../../../../data.json";
-
+import { Link } from "react-router-dom";
 const Team = () => {
   return (
     <div className={styles.teamWrapper} id="team">
