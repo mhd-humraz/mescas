@@ -37,9 +37,12 @@ const Team = () => {
             </div>
           ))}
         </div>
-        <a className={styles.pastMembersButton} href="/">
+        <Link
+          to="/past-core-members"
+          className={styles.pastMembersButton}
+        >
           Past Members ➤
-        </a>
+        </Link>
       </div>
     </div>
   );
