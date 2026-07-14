@@ -178,28 +178,32 @@
 
   "team": {
     "CampusEnabler": {
-      "name": "SHAREEQ SHABEER",
-      "image": "https://i.postimg.cc/8z8hC2PQ/shareeqsir.png"
+      "name": "Vacant",
+      "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
     },
     "CampusLead": {
-      "name": "MUHAMMED HUMRAZ H",
-      "image": "https://i.postimg.cc/sDT3SFQ7/humraz.jpg"
+      "name": "Salman Nazeer",
+      "image": "https://i.postimg.cc/nrsWYyDk/salman.png"
     },
     "CampusCoLead1": {
-      "name": "SHIYAS P S",
-      "image": "https://i.postimg.cc/bNpvkH6c/shiyas.jpg"
+      "name": "Anaya Chandran ",
+      "image": "https://i.postimg.cc/5NJ7Mm4Y/anaya.png"
     },
     "CreativeLead": {
-      "name": "Ameena nasrin K L",
-      "image": "https://i.postimg.cc/zGpkvdy4/ameena.png"
+      "name": "Vacant",
+      "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
     },
-    "TechnicalLead": {
-     "name": "Ajmal M J",
-     "image": "https://i.postimg.cc/rm63kn4G/ajmal.png"
+    "TechnicalLead1": {
+     "name": "Zidhan Muhammed",
+     "image": "https://i.postimg.cc/xTQxSP0B/sidhan.png"
+    },
+     "TechnicalLead": {
+     "name": "Asaf Shamsudheen ",
+     "image": "https://i.postimg.cc/tJj5pXjj/asaf.png"
     },
     "ContentLead": {
-      "name": "Fathima K A",
-      "image": "https://i.postimg.cc/GhGY8X5Z/fathima.png"
+      "name": "Vacant",
+      "image": "https://i.postimg.cc/5NL0D9t8/Gemini-Generated-Image-ikufrbikufrbikuf.png"
     },    
     "MediaLead": {
       "name": "",
